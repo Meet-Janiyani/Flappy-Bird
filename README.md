@@ -26,8 +26,6 @@ Development Tools:
   - Unity Visual Scripting: All game mechanics are implemented using Unity’s Visual Scripting, enabling a code-free game development process.
   - 2D sprites and animations for the bird and pipes.
 
-Screenshots
-![Game Screenshot](path-to-screenshot.png)
 
 Known Issues / Future Enhancements
 - No sound effects yet, will add background music and collision sounds in a future release.
